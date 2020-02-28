@@ -12,8 +12,6 @@
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-* As an example, your analysis should look similar to the one below:
-
   ```text
   Financial Analysis
   ----------------------------
@@ -41,7 +39,6 @@
 
   * The winner of the election based on popular vote.
 
-* As an example, your analysis should look similar to the one below:
 
   ```text
   Election Results
